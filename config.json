@@ -7,7 +7,7 @@
 			"port" : 3800
 		},
 		"mongodb": {
-			"address":"mongodb://localhost:27017/etuliaportal",
+			"address":"mongodb://localhost:27017/local_masterdb",
 			"userAddress":"mongodb://localhost:27017/"
 		},
 		"tmpDir":"/tmp"
@@ -20,7 +20,7 @@
 			"port" : 33216
 		},
 		"mongodb": {
-			"address":"mongodb://localhost:27017/etuliaportal",
+			"address":"mongodb://localhost:27017/local_masterdb",
 			"userAddress":"mongodb://localhost:27017/"
 		},
 		"tmpDir":"C:\\arge\\tr216\\temp"
